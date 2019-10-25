@@ -21,3 +21,4 @@ Things you may want to cover:
 -> rails c ou rails c --sandbox
 # Petits-sites-de-BDD-relationnellesPetits-sites-de-BDD-relationnelles
 # Petits-sites-de-BDD-relationnellesPetits-sites-de-BDD-relationnelles
+# Petits-sites-de-BDD-relationnellesPetits-sites-de-BDD-relationnelles
