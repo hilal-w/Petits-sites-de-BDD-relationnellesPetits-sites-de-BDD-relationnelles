@@ -20,3 +20,4 @@ Things you may want to cover:
 * How to run the test suite
 -> rails c ou rails c --sandbox
 # Petits-sites-de-BDD-relationnellesPetits-sites-de-BDD-relationnelles
+# Petits-sites-de-BDD-relationnellesPetits-sites-de-BDD-relationnelles
